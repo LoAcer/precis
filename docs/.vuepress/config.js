@@ -5,7 +5,7 @@ module.exports = {
     themeConfig: {
         nav: [
             {text:"第一部分 分有关规定与文件", link:"/part1/"},
-            {text:"第二部分", link:"/part2/"},
+            {text:"第二部分 《C++程序设计》实践环节考核规定", link:"/part2/"},
             {text:"第三部分", link:"/part3/"},
             {text:"第四部分", link:"/part4/"},
         ],
