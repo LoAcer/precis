@@ -1,13 +1,13 @@
 module.exports = {
-    title: '山东省高等教育自学考试计算机信息管理专业(本科)实践环节考核纲要-山东大学数学学院( 二〇一六年九月)',
+    title: '实践环节考核纲要',
     description: 'Just playing around',
     head: [],
     themeConfig: {
         nav: [
-            {text:"第一部分 分有关规定与文件", link:"/part1/"},
-            {text:"第二部分 《C++程序设计》实践环节考核规定", link:"/part2/"},
-            {text:"第三部分", link:"/part3/"},
-            {text:"第四部分", link:"/part4/"},
+            {text:"第一部分 有关规定与文件", link:"/part1/"},
+            {text:"第二部分 《C++程序设计》", link:"/part2/"},
+            {text:"第三部分《数据库系统原理》", link:"/part3/"},
+            {text:"第四部分《软件开发工具》", link:"/part4/"},
         ],
         sidebar:{
             '/part1/': [
